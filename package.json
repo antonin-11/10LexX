@@ -1,0 +1,15 @@
+{
+    "name": "spell-check-electron",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "electron ."
+    },
+    "dependencies": {
+        "dotenv": "^16.4.7",
+        "electron": "^33.2.1",
+        "node-key-sender": "^1.0.11",
+        "node-notifier": "^10.0.1",
+        "openai": "^4.77.0"
+    }
+}
